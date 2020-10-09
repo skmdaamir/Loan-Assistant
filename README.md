@@ -1,0 +1,2 @@
+# Loan-Assistant
+In this project, we build a consumer loan assistant. we take input a loan balance and yearly interest rate. Then we have two options: (1) enter the desired number of payments and the loan assistant computes the monthly payment, or (2) enter the desired monthly payment and the loan assistant determines the number of payments we make. An analysis of your loan, including total of payments and interest paid is also provided.
